@@ -12,4 +12,6 @@ baik kan?`))
 
 Hasil:
 
-> https://api.whatsapp.com/send?phone=6282245375142&text=halo%20semuanyaaa....%0Abagaimana%20kabarnya%3F%0Abaik%20kan%3F
+```
+https://api.whatsapp.com/send?phone=6282245375142&text=halo%20semuanyaaa....%0Abagaimana%20kabarnya%3F%0Abaik%20kan%3F
+```
